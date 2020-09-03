@@ -1,4 +1,4 @@
-# herbertdesousa-goStack-goBarber-React
+# goStack-goBarber-react
 
 Confesso, levei literalmente uma porrada de conhecimento de React nesse módulo, autenticação, login, register, Toasts, ToolTips e meu deus, muito coisa, uma serie de conhecimento em ReactJs que, com certeza, vou levar comigo.
 
